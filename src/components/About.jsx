@@ -12,7 +12,7 @@ const About = () => {
         </p>
         <div className=" mt-3 ">
         <a
-          href=""
+          href="https://github.com/ammndeep/notes-app"
           className="bg-gray-800 hover:bg-gray-600 text-white px-4 py-2 rounded transition duration-300 ease-in-out"
         >
           Source Code 📝
